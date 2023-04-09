@@ -1,5 +1,5 @@
 # go-websockets
-Run the command go --run main.go-- to start the server.
+Run the command go **run main.go** to start the server.
 
 ## Usage
 
