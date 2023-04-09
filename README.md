@@ -1,11 +1,11 @@
 # go-websockets
-Run the command go --run main.go to start the server.
+Run the command go --run main.go-- to start the server.
 
 ## Usage
 
 use online websocket client tester like,  [link](https://www.piesocket.com/websocket-tester)  https://www.piesocket.com/websocket-tester
 
-OR Use it in --Javascript code:
+OR Use it in --Javascript code--:
 
 Once the server is running, you can connect to it using a WebSocket client. Here is an example WebSocket client in JavaScript:
 
